@@ -1,0 +1,11 @@
+﻿{
+  "enabled": true,
+  "name": "extreme-pressure-system",
+  "version": "1.0.0",
+  "min_score_for_credit": 80,
+  "credits": {
+    "task_medium": 100000000,
+    "task_high": 500000000,
+    "task_extreme": 5000000000
+  }
+}
